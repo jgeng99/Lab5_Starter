@@ -5,4 +5,4 @@
 - [https://github.com/jgeng99/introduction-to-github](https://github.com/jgeng99/introduction-to-github)
 #### Link to expose.html page
 
-#### Link to expose.html page
+#### Link to explore.html page
